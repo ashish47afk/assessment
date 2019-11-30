@@ -1,0 +1,37 @@
+body{
+	background-color: #bfe6ff;
+}
+#check-weather-title{
+	font-size: 40px;
+	font-weight: bolder;
+	color: #972ee6;
+	text-align: center;
+	margin: 20px;
+}
+#citylabel
+{
+    font-size: 40px;
+}
+#citytext
+{
+    width: 15em;
+    height: 1em;
+    font-size: 26px;
+}
+#clickbut
+{
+    margin-top: 2em;
+    width: 5em;
+    height: 2em;
+}
+#weather-final{
+	text-align: center;
+}
+button
+{
+    border: none;
+    width: 10em;
+    height: 3em;
+    margin: 15px;
+
+}

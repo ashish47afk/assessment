@@ -1,0 +1,39 @@
+*{
+  margin: 0;
+  padding: 0;
+
+}
+.nav-bar{
+ position: fixed;
+ width: 100%;
+ margin-top: -50px;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #67aeff;
+}
+
+li {
+  float: left;  
+  padding: 10px 75px;
+}
+
+li a {
+  display: block;
+  color: #3e3a3a;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: #efefef;
+  transition: 0.7s;
+}
+
+.active {
+  background-color: #efefef;
+}

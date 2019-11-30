@@ -1,0 +1,39 @@
+body{
+	background: linear-gradient(to bottom, #ccffcc 0%, #ff99cc 80%);
+}
+h2{
+	color: #d45b06;
+	font-weight: bolder;
+	font-size: 35px;
+	text-align: center;
+	margin: 15px;
+}
+h5{
+	color: #4a0505;
+	font-size: 15px;
+	text-align: center;
+	margin: 5px;
+}
+i{
+	margin-left: 10px;
+	margin-top: 5px;
+	font-size: 15px;
+	font-weight: bold;
+}
+.content-api{
+	font-size: 20px;
+	text-align: center;
+	font-weight: bold;
+	color: #580a0ac7;
+	margin: 10px;
+}
+.publish-at{
+	margin-left: 10px;
+}
+.author-api{
+	color: #2a3a2a;
+	margin-left: 10px;
+	margin-top: 5px;
+	font-size: 19px;
+	font-weight: bold;
+}
