@@ -8,7 +8,7 @@ $(document).ready(function(){
                 url:"https://api.openweathermap.org/data/2.5/weather?q="+city+"&units="+a+
                 "&APPID=d1b9d308b13c1ac063962ba3d5cfd72f",        
                 type:"GET",
-                datatype:"jsonp",
+                datatype:"json",
                 success:function(data)
                 {
                  console.log(data);
