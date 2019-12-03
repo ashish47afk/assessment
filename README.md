@@ -10,4 +10,4 @@
 ## Endpoint-2 - News(Bitcoin)
 ## Endpoint-3 - Weather(Search Place)
 ## Endpoint-4 - News(Sources)
-# Checkout my cool Website [News & Weather](https://ashish47afk.github.io/assessment/)
+# Checkout my cool Website [News & Weather](https://ashish47afk.github.io/assessment-project/)
